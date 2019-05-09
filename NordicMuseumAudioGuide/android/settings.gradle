@@ -1,0 +1,3 @@
+rootProject.name = 'NordicMuseumAudioGuide'
+
+include ':app'
